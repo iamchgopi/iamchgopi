@@ -12,7 +12,7 @@ Software Engineer with 4+ years building distributed, cloud-native systems — c
 
 🌱 Currently deepening my skills in **LangGraph, MCP, and multi-agent orchestration**.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) · [Portfolio](https://gopi-portfolio-six.vercel.app/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gopichinthagumpula/) · [Portfolio](https://gopi-portfolio-six.vercel.app/)
 
 <br>
 
